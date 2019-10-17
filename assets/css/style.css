@@ -188,3 +188,16 @@ footer {
     border-top-width: 7px;
     color: #ffffff;
 }
+@media only screen and (max-width: 960px) {
+
+}
+
+@media only screen and (max-width: 768px){
+
+}
+
+@media only screen and (max-width: 640px){
+    header {
+        position: static;
+
+}
