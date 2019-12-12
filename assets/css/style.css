@@ -140,7 +140,7 @@ a:active {
     text-align: center;
     padding: 5px;
     width: auto;
-    position: absolute;
+    position: relative;
     z-index: 1;
     background: #4aaaa5;
     color: white;
